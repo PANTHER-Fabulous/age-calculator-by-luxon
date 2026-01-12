@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AGE CALCULATOR(Luxon)</title>
+         
+        <link rel="stylesheet" href="styles.css">   
+        <script src="https://moment.github.io/luxon/global/luxon.min.js"></script>
+    </head>
+    <body>
+        <div id="done">
+            <h1> AGE CALCULATOR</h1>
+            <label for="hb">Enter your birth date:</label>
+        </div>
+        <div id="dtwo">
+            <input type="date" id="hb" name="hb" placeholder="Birth date" required><br>
+            <button onclick="calculateAge()">Calculate Age</button>
+
+            <p id="result"></p>
+        </div>       
+        <script src="script.js"></script>
+    </body>
+</html>
