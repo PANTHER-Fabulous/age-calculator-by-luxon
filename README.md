@@ -2,9 +2,6 @@
 
 A simple age calculator website built with **HTML**, **CSS**, **JavaScript**, and **Luxon**.
 
-## 🔗 Live Demo
-*(You can host on GitHub Pages later if you want a live website)*
-
 ## 📦 Repository
 [GitHub Repository](https://github.com/PANTHER-Fabulous/age-calculator-by-luxon.git)
 
