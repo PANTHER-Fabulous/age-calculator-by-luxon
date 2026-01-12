@@ -1,20 +1,32 @@
-\# Age Calculator (Luxon)
+# Age Calculator (Luxon)
+
+A simple age calculator website built with **HTML**, **CSS**, **JavaScript**, and **Luxon**.
+
+## 🔗 Live Demo
+*(You can host on GitHub Pages later if you want a live website)*
+
+## 📦 Repository
+[GitHub Repository](https://github.com/PANTHER-Fabulous/age-calculator-by-luxon.git)
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Luxon (for date and time calculations)
+
+## 📄 Description
+This project calculates a user's age based on their birth date using the Luxon library.  
+It demonstrates:
+- Using **Luxon** for date and time calculations
+- Basic **form input handling** in JavaScript
+- Clean **HTML/CSS layout** for user interface
+
+## ⚡ Features
+- Enter your birth date
+- Click **Calculate Age**
+- Shows your age in years
 
 
 
-A simple age calculator built with HTML, CSS, JavaScript, and Luxon.
-
-
-
-\## How to use
-
-\- Select your birth date
-
-\- Click "Calculate Age"
-
-\- See your age instantly
-
-\## Project URL
-\-https://github.com/PANTHER-Fabulous/age-calculator-by-luxon
 
 
