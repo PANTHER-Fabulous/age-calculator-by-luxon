@@ -3,7 +3,7 @@
 A simple age calculator website built with **HTML**, **CSS**, **JavaScript**, and **Luxon**.
 
 ## 📦 Repository
-[GitHub Repository](https://github.com/PANTHER-Fabulous/age-calculator-by-luxon.git)
+[GitHub Repository](https://github.com/PANTHER-Fabulous/age-calculator-by-luxon)
 
 ## 🛠️ Technologies Used
 - HTML
